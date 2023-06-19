@@ -1,0 +1,47 @@
+.center{
+    text-align: center;
+}
+
+.container{
+    margin-left: 52px;
+    margin-right: 52px;
+}
+.parentdiv{
+    display: flex;
+    justify-content:space-around;
+    margin-bottom: 48px;
+}
+
+.title{
+    width: 278px;
+}
+
+
+.Child{
+    width: 310px;
+    border: 1px solid #EAECF0;
+}
+
+.icons{
+    width: 140px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icon{
+    background-color: #F2F4F7;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.icon img{
+    width: 18px;
+    height: 18px;
+    margin: 9px;
+
+}
