@@ -1,5 +1,6 @@
 .center{
     text-align: center;
+    
 }
 
 .container{
@@ -26,6 +27,7 @@
     width: 140px;
     display: flex;
     justify-content: space-around;
+    margin-top: 24px;
 }
 
 .icon{
@@ -44,4 +46,121 @@
     height: 18px;
     margin: 9px;
 
+}
+
+
+.footerdiv{
+    background-color:  #53535354;
+    height: 512px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.footer-block p{
+    width: 306.05px;
+     color: #5F6980;
+    
+   
+}
+
+
+
+
+.footer-block ul{
+margin-top: 71px;
+
+}
+
+
+.footer-block li{
+    margin-top: 15px;
+    color: #5F6980;
+
+}
+
+.language{
+    background-color: #054A68;
+    width: 80px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.footer-icons{
+    margin-top:28px;
+    display: flex;
+    justify-content: space-between;
+    width: 104px;
+}
+
+h1, h3, h4, p, li{
+    
+    font-family: 'inter';
+}
+
+
+
+h1{
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 62px;
+}
+
+
+h4{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+}
+
+.heading p{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    
+}
+
+.header-paragraph{
+    width: 760px;
+    text-align: center;
+    margin-left: 340px;
+
+}
+
+.footer-image img{
+    margin-top: 108px;
+    margin-bottom: 32px;
+}
+
+
+.Child h3{
+    color:  #282828;
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 3px;
+
+    
+}
+
+.Child h4{
+    color: #3E3E59;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.child p{
+    color: #5F6980;
+    ;
+    font-size: 14px;
+    font-weight: 400;
+    
+}
+
+.child-frame{
+    width: 310px;
+    padding: 0px 16px 0px 16px;
 }
