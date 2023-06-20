@@ -120,14 +120,15 @@ h4{
     font-size: 20px;
     font-weight: 400;
     line-height: 35px;
+    width: 760px;
+    margin: 0 auto;
     
 }
 
-.header-paragraph{
-    width: 760px;
-    text-align: center;
-    margin-left: 340px;
 
+
+footer{
+    width: 100%;
 }
 
 .footer-image img{
